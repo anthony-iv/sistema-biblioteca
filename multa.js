@@ -1,4 +1,4 @@
-ction calcularMulta(diasAtraso) {
+function calcularMulta(diasAtraso) {
  if (diasAtraso <= 0) {
  return 0;
  }
